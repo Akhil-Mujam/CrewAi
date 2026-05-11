@@ -3,7 +3,7 @@
 
 after creating the project in terminal 
 
-create a Venv 
+## create a Venv 
 -- python -m venv venv
 
 cd venv\Scripts\activate
